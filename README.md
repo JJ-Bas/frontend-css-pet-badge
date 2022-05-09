@@ -12,7 +12,7 @@ Het project bevat de volgende bestanden:
 - `index.html` met daarin de tekst en elementen die je zult gaan voorzien van styling;
 - `styles.css`: dit bestand is nog leeg.
 
-#### Aandachtspunten
+## Aandachtspunten
 
 Zorg ervoor dat jouw versie er precies zo uit komt te zien als de pagina in het voorbeeld. Je mag niets veranderen in de aangeleverde HTML, behalve het toevoegen van `class` of `id`-attributen. Volg hiervoor de volgende stappen:
 
