@@ -20,5 +20,6 @@ Zorg ervoor dat jouw versie er precies zo uit komt te zien als de pagina in het 
 2. Wijs de juiste kleuren toe aan de elementen. Er is gebruik gemaakt van de kleuren `#535865` (tekst- en randkleur), `#865B9A` (badge-kleur).
 3. De rand van de afbeelding moet 8 pixels breed zijn, de afbeelding zelf mag 300 pixels breed zijn. Tip: wanneer je een breedte declareert, wil je bij afbeeldingen niet óók nog eens een hoogte toewijzen. Dit gebeurt al automatisch. Wanneer je dit wel doet, heb je kans dat je de afbeelding onbedoelt uitrekt.
 4. Zorg dat de afbeelding wordt weergegeven als cirkel. Zorg ook dat er ongeveer 10 pixels aan ruimte tussen de afbeelding en de titel komt te staan, door alleen `margin` aan de onderkant van de afbeelding toe te passen.
-5. Zorg dat er 32 pixels aan ruimte ontstaat tussen de denkbeeldige rand van het article-element en alle elementen daarbinnen. Tip: gebruik hier `padding` voor.
-6. Het gebruikte lettertype is het Google Font 'Oleo Script Swash Caps'. Dit lettertype krijgt van nature bijna 50 pixels aan `margin` mee: dat vinden we veel te veel. Overschrijf dit naar 0.
+5. Zorg dat er 32 pixels aan ruimte ontstaat tussen de denkbeeldige rand van het article-element en alle elementen daarbinnen. Tip: gebruik hier `padding` voor. 
+6. Zorg voor een mooie shaduw achter het article-element.
+7. Het gebruikte lettertype is het Google Font 'Oleo Script Swash Caps'. Dit lettertype krijgt van nature bijna 50 pixels aan `margin` mee: dat vinden we veel te veel. Overschrijf dit naar 0.
