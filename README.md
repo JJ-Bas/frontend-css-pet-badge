@@ -17,7 +17,7 @@ Het project bevat de volgende bestanden:
 Zorg ervoor dat jouw versie er precies zo uit komt te zien als de pagina in het voorbeeld. Je mag niets veranderen in de aangeleverde HTML, behalve het toevoegen van `class` of `id`-attributen. Volg hiervoor de volgende stappen:
 
 1. Geef het article-element een `display: inline-block;` om te voorkomen dat dit element over de volledige breedte van de pagina strekt.
-2. Wijs de juiste kleuren toe aan de elementen. Er is gebruik gemaakt van de kleuren `#535865` (tekst- en randkleur), `#865B9A` (badge-kleur).
+2. Wijs de juiste kleuren toe aan de elementen. Er is gebruik gemaakt van de kleuren `#B36A5E` (tekst- en randkleur), `#EED7C5` (badge-kleur).
 3. De rand van de afbeelding moet 8 pixels breed zijn, de afbeelding zelf mag 300 pixels breed zijn. Tip: wanneer je een breedte declareert, wil je bij afbeeldingen niet óók nog eens een hoogte toewijzen. Dit gebeurt al automatisch. Wanneer je dit wel doet, heb je kans dat je de afbeelding onbedoelt uitrekt.
 4. Zorg dat de afbeelding wordt weergegeven als cirkel. Zorg ook dat er ongeveer 10 pixels aan ruimte tussen de afbeelding en de titel komt te staan, door alleen `margin` aan de onderkant van de afbeelding toe te passen.
 5. Zorg dat er 32 pixels aan ruimte ontstaat tussen de denkbeeldige rand van het article-element en alle elementen daarbinnen. Tip: gebruik hier `padding` voor. 
